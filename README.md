@@ -11,7 +11,7 @@ I am also part of <a href="https://www.tuwienracing.at/">TU Wien racing</a>, whe
 - indoor machine vision application with object detection and path planning
 - synthesiser project in C++
 - web application with Flask and React
-- Laptime Simulation in ChassisSim
+- racecar Laptime Simulation in ChassisSim
 
 ### 💡 A little more about me...  
 
