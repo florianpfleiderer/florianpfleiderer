@@ -21,6 +21,7 @@ I am also part of <a href="https://www.tuwienracing.at/">TU Wien racing</a>, whe
   languages: {
     German: "C2",
     English: "C2",
+    French: "B2"
   }
 }
 ```
