@@ -1,6 +1,6 @@
 <h2> Hi there, I'm Florian Pfleiderer!</h2>
 <p><em>
-I'm an Electrical Engineering student at the <a href="https://www.tuwien.at/">TU Wien</a>. <br>
+I'm an Electrical Engineering student at <a href="https://www.tuwien.at/">TU Wien</a>. <br>
 I am also part of <a href="https://www.tuwienracing.at/">TU Wien racing</a>, where I work in Vehicle Dynamics.
 </em></p>
 
