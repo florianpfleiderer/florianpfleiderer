@@ -4,7 +4,7 @@ I'm an Electrical Engineering student at <a href="https://www.tuwien.at/">TU Wie
 I am also part of <a href="https://www.tuwienracing.at/">TU Wien racing</a>, where I work in Vehicle Dynamics.
 </em></p>
 
-[![GitHub florianpfleiderer](https://img.shields.io/github/followers/majvie?label=follow&style=social)](https://github.com/florianpfleiderer)
+[![GitHub florianpfleiderer](https://img.shields.io/github/followers/florianpfleiderer?label=follow&style=social)](https://github.com/florianpfleiderer)
 
 ### 🔭 Current projects...
 
@@ -18,6 +18,7 @@ I am also part of <a href="https://www.tuwienracing.at/">TU Wien racing</a>, whe
 ```javascript
 {
   code: ["Python", "C++", "C", "Java"],
+  technologies: ["git", "Docker", "STM32", "REST APIs"],
   languages: {
     German: "C2",
     English: "C2",
