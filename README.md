@@ -6,12 +6,16 @@ I am also part of <a href="https://www.tuwienracing.at/">TU Wien racing</a>, whe
 
 [![GitHub florianpfleiderer](https://img.shields.io/github/followers/florianpfleiderer?label=follow&style=social)](https://github.com/florianpfleiderer)
 
-### 🔭 Current projects...
+### 🌱 My best projects ...
 
 - indoor machine vision application with object detection and path planning
 - synthesiser project in C++
 - web application with Flask and React
 - racecar Laptime Simulation in ChassisSim
+  
+### 🔭 I'm currently working on ...
+
+- my bachelor thesis
 
 ### 💡 A little more about me...  
 
