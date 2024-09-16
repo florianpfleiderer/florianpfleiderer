@@ -8,9 +8,10 @@ I was also part of <a href="https://www.tuwienracing.at/">TU Wien racing</a>, wh
 
 ### 🌱 My best projects ...
 
-- indoor machine vision application with object detection and path planning
-- Digtal Modular Synthesizer [🔗](https://github.com/florianpfleiderer/SimpleSynth)
+- Model Optimisation and Comparison for Improved Change Detection in Autonomous Systems [🔗](https://github.com/florianpfleiderer/CYWS3D-pipeline)
+- Digital Modular Synthesizer [🔗](https://github.com/florianpfleiderer/SimpleSynth)
 - React x Flask Application [🔗](https://github.com/florianpfleiderer/coffee-app)
+- object detection & path planning on Pioneer-3DX mobile robot platform
 - racecar Laptime Simulation in ChassisSim
   
 ### 🔭 I'm currently working on ...
