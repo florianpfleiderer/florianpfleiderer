@@ -9,7 +9,7 @@ I was also part of <a href="https://www.tuwienracing.at/">TU Wien racing</a>, wh
 ### 🌱 My best projects ...
 
 - indoor machine vision application with object detection and path planning
-- synthesiser project in C++ ![🔗](https://github.com/florianpfleiderer/SimpleSynth)
+- synthesiser project in C++ | [🔗](https://github.com/florianpfleiderer/SimpleSynth)
 - web application with Flask and React [🔗](https://github.com/florianpfleiderer/coffee-app)
 - racecar Laptime Simulation in ChassisSim
   
