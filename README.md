@@ -1,6 +1,7 @@
 <h2> Hi there, I'm Florian Pfleiderer!</h2>
 <p><em>
 I'm a Computer Science student at <a href="https://www.st-andrews.ac.uk/">University of St. Andrews</a>. <br>
+Among top 15% of student cohort during my bachelor's at the Technical University of Vienna following an individual study plan, while taking courses in Robotics, Microcontrollers and Machine design.
 I was also part of <a href="https://www.tuwienracing.at/">TU Wien racing</a>, where I worked on the development of the racecar's ECU.
 </em></p>
 
