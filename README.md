@@ -1,7 +1,7 @@
 <h2> Hi there, I'm Florian Pfleiderer!</h2>
 <p><em>
 I'm a Computer Science student at <a href="https://www.st-andrews.ac.uk/">University of St. Andrews</a>. <br>
-I am also part of <a href="https://www.tuwienracing.at/">TU Wien racing</a>, where I work in Vehicle Dynamics.
+I was also part of <a href="https://www.tuwienracing.at/">TU Wien racing</a>, where I worked on the development of the racecar's ECU.
 </em></p>
 
 [![GitHub florianpfleiderer](https://img.shields.io/github/followers/florianpfleiderer?label=follow&style=social)](https://github.com/florianpfleiderer)
@@ -15,7 +15,7 @@ I am also part of <a href="https://www.tuwienracing.at/">TU Wien racing</a>, whe
   
 ### 🔭 I'm currently working on ...
 
-- my bachelor thesis
+- my masters degree in computer science
 
 ### 💡 A little more about me...  
 
