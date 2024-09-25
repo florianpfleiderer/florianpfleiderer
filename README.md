@@ -1,7 +1,7 @@
 <h2> Hi there, I'm Florian Pfleiderer!</h2>
 <p><em>
 I'm a Masters student in Computer Science at <a href="https://www.st-andrews.ac.uk/">University of St. Andrews</a>. <br>
-Among top 15% of student cohort during my bachelor's at the <a href="https://www.tuwien.at/en/">Technical University of Vienna</a>, I was following an individual study plan, taking courses in Robotics, Microcontrollers and Software Engineering.
+Among top 15% of student cohort during my bachelor's at the <a href="https://www.tuwien.at/en/">Technical University of Vienna</a>, I was following an individual study plan, taking courses in Robotics, Microcontrollers and Software Engineering. <br>
 I was also part of <a href="https://www.tuwienracing.at/">TU Wien racing</a>, where I worked on the development of the racecar's ECU.
 </em></p>
 
