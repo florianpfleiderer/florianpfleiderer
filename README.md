@@ -14,7 +14,7 @@ I was part of <a href="https://www.tuwienracing.at/">TU Wien racing</a>, where I
 
 - <img align="right" src="assets/simplesynth.png" width="170" style="padding-bottom: 15px; padding-left: 15px; float: right;clear:both;"><a href="https://github.com/florianpfleiderer/SimpleSynth">Digital Modular Synthesizer</a> – The motivation for this project was to develop a simple, modular synthesizer to produce different sounds and create short loops to use in music production. It utilises the ImNodes and ImGui libraries for generation and the Synthesis Toolkit (STK) for creating and processing sounds.
 
-- <img align="right" src="assets/coffee-app.png" width="65" style="padding-bottom: 15px; padding-left: 15px; float: right;clear:both;"><a href="https://github.com/florianpfleiderer/coffee-app">React x Flask Application</a> – A containerised application using the react and flask frameworks and SQLite for local database management.
+- <img align="right" src="assets/coffee-app.png" width="65" style="padding-bottom: 15px; padding-left: 15px; float: middle;clear:both;"><a href="https://github.com/florianpfleiderer/coffee-app">React x Flask Application</a> – A containerised application using the react and flask frameworks and SQLite for local database management.
 
 #### Other projects
 - object detection & path planning on Pioneer-3DX mobile robot platform
