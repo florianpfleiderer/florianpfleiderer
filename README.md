@@ -2,7 +2,7 @@
 <p><em>
 I'm a Masters student in Computer Science at <a href="https://www.st-andrews.ac.uk/">University of St. Andrews</a>. <br>
 Among top 15% of my student cohort during undergraduate time at the <a href="https://www.tuwien.at/en/">Technical University of Vienna</a>, I was following an individual study plan, taking courses in Robotics, Machine Vision and Software Engineering. <br>
-I was also part of <a href="https://www.tuwienracing.at/">TU Wien racing</a>, where I led the embedded software development of the racecar's electronic control unit.
+I was part of <a href="https://www.tuwienracing.at/">TU Wien racing</a>, where I led the embedded software development of the racecar's electronic control unit.
 </em></p>
 
 [![GitHub florianpfleiderer](https://img.shields.io/github/followers/florianpfleiderer?label=follow&style=social)](https://github.com/florianpfleiderer)
