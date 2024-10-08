@@ -5,8 +5,9 @@ Among top 15% of my student cohort during undergraduate time at the <a href="htt
 I was part of <a href="https://www.tuwienracing.at/">TU Wien racing</a>, where I led the embedded software development of the racecar's electronic control unit and helped the team secure a top 25 place among over 200 competing teams.
 </em></p>
 
-[![Linkedin: mavie](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/florian-pfleiderer/)](https://www.linkedin.com/in/florian-pfleiderer/)
+[![Linkedin florian-pfleiderer](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/florian-pfleiderer/)](https://www.linkedin.com/in/florian-pfleiderer/)
 [![GitHub florianpfleiderer](https://img.shields.io/github/followers/florianpfleiderer?label=follow&style=social)](https://github.com/florianpfleiderer)
+[![Website](https://img.shields.io/badge/just%20the%20message-8A2BE2)](https://info.florianpfleiderer.at/)
 
 ### 🌱 My best projects ...
 
