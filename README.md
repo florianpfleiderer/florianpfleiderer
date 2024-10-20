@@ -9,6 +9,11 @@ I was part of <a href="https://www.tuwienracing.at/">TU Wien racing</a>, where I
 [![GitHub florianpfleiderer](https://img.shields.io/github/followers/florianpfleiderer?label=follow&style=social)](https://github.com/florianpfleiderer)
 [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://florianpfleiderer.at/)
 
+### 🔭 I'm currently working on ...
+
+- my masters degree in computer science
+- learning rust
+
 ### 🌱 My best projects ...
 
 - <img align="right" src="assets/cyws3d.png" width="150" style="padding-bottom: 15px; padding-left: 15px; float: right;clear:both;"><a href="https://github.com/florianpfleiderer/CYWS3D-pipeline">Model Optimisation and Comparison for Improved Change Detection in Autonomous Systems</a> – This thesis enhances change detection in indoor mobile robots by directly applying the CYWS-3D model to camera data, eliminating the reconstruction step. This approach addresses issues with occluded objects and search area definitions, serving as an indicator for objects missed by existing pipelines, thus improving unsupervised home assistance applications.
@@ -23,11 +28,7 @@ I was part of <a href="https://www.tuwienracing.at/">TU Wien racing</a>, where I
 #### Other projects
 - object detection & path planning on Pioneer-3DX mobile robot platform
 - racecar Laptime Simulation in ChassisSim
--->
-  
-### 🔭 I'm currently working on ...
 
-- my masters degree in computer science
 
 ### 💡 A little more about me...  
 
@@ -42,6 +43,7 @@ const flo = {
   }
 }
 ```
+-->
 
 ### 📫 How to reach me: 
 
