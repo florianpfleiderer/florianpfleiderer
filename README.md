@@ -11,7 +11,7 @@ I was part of <a href="https://www.tuwienracing.at/">TU Wien racing</a>, where I
 
 ### 🔭 I'm currently working on ...
 
-- my masters degree in computer science
+- my masters degree
 - learning rust
 
 ### 🌱 My best projects ...
