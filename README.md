@@ -1,9 +1,18 @@
-| Description                                                                                     | Most Used Languages                                                                                                                                 |
-| ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Hi there, I'm Florian Pfleiderer!                                                                 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=florianpfleiderer&layout=compact)                                        |
-| I'm a Masters student in Computer Science at [University of St. Andrews](https://www.st-andrews.ac.uk/). <br>Among top 15% of my student cohort during undergraduate time at the [Technical University of Vienna](https://www.tuwien.at/en/), I was following an individual study plan, taking courses in Robotics, Machine Vision and Software Engineering. I was part of [TU Wien racing](https://www.tuwienracing.at/), where I led the embedded software development of the racecar's electronic control unit and helped the team secure a top 25 place among over 200 competing teams. |                                                                                                        |
-| [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florian-pfleiderer/) [![GitHub florianpfleiderer](https://img.shields.io/github/followers/florianpfleiderer?label=follow&style=social)](https://github.com/florianpfleiderer) [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://florianpfleiderer.at/) |                                                                                                        |
+## Hi there, I'm Florian Pfleiderer!
 
+I'm a Masters student in Computer Science at [University of St. Andrews](https://www.st-andrews.ac.uk/).  
+Among the top 15% of my student cohort during my undergraduate time at the [Technical University of Vienna](https://www.tuwien.at/en/), I followed an individual study plan, taking courses in Robotics, Machine Vision, and Software Engineering.  
+I was part of [TU Wien racing](https://www.tuwienracing.at/), where I led the embedded software development of the racecar's electronic control unit and helped the team secure a top 25 place among over 200 competing teams.
+
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florian-pfleiderer/) 
+[![GitHub florianpfleiderer](https://img.shields.io/github/followers/florianpfleiderer?label=follow&style=social)](https://github.com/florianpfleiderer) 
+[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://florianpfleiderer.at/)
+
+---
+
+### Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=florianpfleiderer&layout=compact)
 
 <!--
 <p><em>
