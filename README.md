@@ -11,7 +11,7 @@ I was part of <a href="https://www.tuwienracing.at/">TU Wien racing</a>, where I
 [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://florianpfleiderer.at/)
 
 
-### <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=florianpfleiderer&layout=compact" width="200"> 🔭 I'm currently working on ...
+### <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=florianpfleiderer&layout=compact" width="300"> 🔭 I'm currently working on ...
 
 - my masters degree
 - learning rust
