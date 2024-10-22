@@ -1,4 +1,3 @@
-<h2> Hi there, I'm Florian Pfleiderer!</h2>
 <div style="display: flex; align-items: flex-start;">
   <!-- Description Section -->
   <div style="flex: 1;">
