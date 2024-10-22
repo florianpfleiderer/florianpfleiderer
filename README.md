@@ -11,12 +11,12 @@ I was part of <a href="https://www.tuwienracing.at/">TU Wien racing</a>, where I
 [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://florianpfleiderer.at/)
 
 
-### 🔭 I'm currently working on ...
+### <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=florianpfleiderer&layout=compact" width="150"> 🔭 I'm currently working on ...
 
 - my masters degree
 - learning rust
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=florianpfleiderer&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=florianpfleiderer&layout=compact) -->
 
 ### 🌱 My best projects ...
 
