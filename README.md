@@ -9,6 +9,8 @@ I was part of <a href="https://www.tuwienracing.at/">TU Wien racing</a>, where I
 [![GitHub florianpfleiderer](https://img.shields.io/github/followers/florianpfleiderer?label=follow&style=social)](https://github.com/florianpfleiderer)
 [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://florianpfleiderer.at/)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=florianpfleiderer&layout=compact)
+
 ### 🔭 I'm currently working on ...
 
 - my masters degree
@@ -22,8 +24,6 @@ I was part of <a href="https://www.tuwienracing.at/">TU Wien racing</a>, where I
 
 - <img align="right" src="assets/arhs.png" width="150" style="padding-bottom: 15px; padding-left: 15px; float: right;clear:both;"><a href="https://github.com/florianpfleiderer/ARHS">Autonomous Robot Hockey System</a> – Autonomous Robot Hockey System (ARHS) - A ROS-based software for autonomous robots to play a hockey-like game. Key tasks include motion control, obstacle avoidance, detecting field components (pucks, poles, goals), field dimension detection, localisation, and puck manipulation.
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=florianpfleiderer&layout=compact)
 <!--
 - <img align="right" src="assets/coffee-app.png" width="65" style="padding-bottom: 15px; padding-left: 15px; float: right;clear:both;"><a href="https://github.com/florianpfleiderer/coffee-app">React x Flask Application</a> – A containerised application using the react and flask frameworks and SQLite for local database management.
 
