@@ -6,7 +6,7 @@ Among top 15% of my student cohort during undergraduate time at the <a href="htt
 I was part of <a href="https://www.tuwienracing.at/">TU Wien racing</a>, where I led the embedded software development of the racecar's electronic control unit and helped the team secure a top 25 place among over 200 competing teams.
 </em></p>
 
-TODO: edit readme stats!
+TODO: edit readme stats to use API for showing private repos
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=florianpfleiderer&layout=compact" width="300">[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florian-pfleiderer/)
 [![GitHub florianpfleiderer](https://img.shields.io/github/followers/florianpfleiderer?label=follow&style=social)](https://github.com/florianpfleiderer)
