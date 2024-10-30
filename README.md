@@ -6,7 +6,7 @@ Among top 15% of my student cohort during undergraduate time at the <a href="htt
 I was part of <a href="https://www.tuwienracing.at/">TU Wien racing</a>, where I led the embedded software development of the racecar's electronic control unit and helped the team secure a top 25 place among over 200 competing teams.
 </em></p>
 
-<img align="right" src="https://github-readme-stats-florians-projects-89ef2818.vercel.app/api/top-langs/?username=florianpfleiderer&layout=compact&exclude_repo=github-readme-stats,florianpfleiderer.github.io&size_weight=0.8&count_weight=0.2&role=OWNER,ORGANIZATION_MEMBER&hide=javascript,HTML,CSS,PHP,hack,scss,nsis,tex&langs_count=8&hide_border=false&count_private=true" width="300">[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florian-pfleiderer/)
+<img align="right" src="https://github-readme-stats-florians-projects-89ef2818.vercel.app/api/top-langs/?username=florianpfleiderer&layout=compact&exclude_repo=github-readme-stats,florianpfleiderer.github.io&size_weight=0.5&count_weight=0.5&role=OWNER,ORGANIZATION_MEMBER&hide=javascript,HTML,CSS,PHP,hack,scss,nsis,tex&langs_count=8&hide_border=false&count_private=true" width="300">[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florian-pfleiderer/)
 [![GitHub florianpfleiderer](https://img.shields.io/github/followers/florianpfleiderer?label=follow&style=social)](https://github.com/florianpfleiderer)
 [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://florianpfleiderer.at/)
 
