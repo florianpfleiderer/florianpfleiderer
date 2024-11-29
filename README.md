@@ -35,7 +35,7 @@ I was part of <a href="https://www.tuwienracing.at/">TU Wien racing</a>, where I
 -->
 
 ### 💡 A little more about me...  
-
+<!--
 ```javascript
 const flo = {
   code: ["Python", "C++", "C", "Rust", "Java"],
@@ -49,6 +49,16 @@ const flo = {
   }
 }
 ```
+-->
+**Programming Languages:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
+
 **Technologies and Frameworks:**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -61,6 +71,18 @@ const flo = {
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-000000?style=for-the-badge&logo=computervision&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=machinelearning&logoColor=white)
 
+**🔐 Cryptography:**
+
+- ![🔑](https://img.icons8.com/emoji/20/000000/key-emoji.png) **RSA**
+- ![🛡️](https://img.icons8.com/emoji/20/000000/shield-emoji.png) **GPG**
+- ![🔒](https://img.icons8.com/emoji/20/000000/locked-with-key-emoji.png) **SSL/TLS**
+- ![🏢](https://img.icons8.com/emoji/20/000000/office-building-emoji.png) **Public Key Infrastructure (PKI)**
+
+**Languages:**
+
+![German](https://img.shields.io/badge/German-C2-blue?style=for-the-badge)
+![English](https://img.shields.io/badge/English-C2-blue?style=for-the-badge)
+![French](https://img.shields.io/badge/French-B2-blue?style=for-the-badge)
 
 ### 📫 How to reach me: 
 
