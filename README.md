@@ -38,8 +38,10 @@ I was part of <a href="https://www.tuwienracing.at/">TU Wien racing</a>, where I
 
 ```javascript
 const flo = {
-  code: ["Python", "C++", "C", "Java"],
-  technologies: ["git", "Docker", "STM32", "REST APIs"],
+  code: ["Python", "C++", "C", "Rust", "Java"],
+  technologies: ["git", "Docker", "", ""],
+  cryptography: ["RSA", "GPG", "SSL/TLS", "Public Key Infrastructure (PKI)"],
+  operational security: ["Secure authentication methods", "threat modeling"],
   languages: {
     German: "C2",
     English: "C2",
