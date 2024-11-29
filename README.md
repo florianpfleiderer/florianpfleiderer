@@ -71,12 +71,17 @@ const flo = {
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-000000?style=for-the-badge&logo=computervision&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=machinelearning&logoColor=white)
 
-**🔐 Cryptography:**
+**Cryptography:**
 
-- ![🔑](https://img.icons8.com/emoji/20/000000/key-emoji.png) **RSA**
-- ![🛡️](https://img.icons8.com/emoji/20/000000/shield-emoji.png) **GPG**
-- ![🔒](https://img.icons8.com/emoji/20/000000/locked-with-key-emoji.png) **SSL/TLS**
-- ![🏢](https://img.icons8.com/emoji/20/000000/office-building-emoji.png) **Public Key Infrastructure (PKI)**
+![RSA](https://img.shields.io/badge/RSA-000000?style=for-the-badge&logo=openssl&logoColor=white)
+![GPG](https://img.shields.io/badge/GPG-000000?style=for-the-badge&logo=gnu-privacy-guard&logoColor=white)
+![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-000000?style=for-the-badge&logo=let's-encrypt&logoColor=white)
+![Public Key Infrastructure](https://img.shields.io/badge/PKI-000000?style=for-the-badge&logo=keybase&logoColor=white)
+
+**Operational Security:**
+
+![Secure Authentication Methods](https://img.shields.io/badge/Secure%20Authentication%20Methods-000000?style=for-the-badge&logo=auth0&logoColor=white)
+![Threat Modeling](https://img.shields.io/badge/Threat%20Modeling-000000?style=for-the-badge&logo=the-movie-database&logoColor=white)
 
 **Languages:**
 
