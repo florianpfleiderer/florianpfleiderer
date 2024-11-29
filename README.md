@@ -32,14 +32,14 @@ I was part of <a href="https://www.tuwienracing.at/">TU Wien racing</a>, where I
 #### Other projects
 - object detection & path planning on Pioneer-3DX mobile robot platform
 - racecar Laptime Simulation in ChassisSim
-
+-->
 
 ### 💡 A little more about me...  
 
 ```javascript
 const flo = {
   code: ["Python", "C++", "C", "Rust", "Java"],
-  technologies: ["git", "Docker", "", ""],
+  technologies: ["git", "Docker", "ROS", "OpenCV", "PyTorch", "TensorFlow", "SLAM", "Computer Vision", "Machine Learning"],s
   cryptography: ["RSA", "GPG", "SSL/TLS", "Public Key Infrastructure (PKI)"],
   operational security: ["Secure authentication methods", "threat modeling"],
   languages: {
@@ -49,13 +49,14 @@ const flo = {
   }
 }
 ```
--->
+
 
 ### 📫 How to reach me: 
 
 Mail: [florian@pfleiderer.at](mailto:florian@pfleiderer.at)
 
 <!--
+
 **florianpfleiderer/florianpfleiderer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
