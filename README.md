@@ -3,7 +3,8 @@
 <p><em>
 I'm a Masters student in Computer Science at <a href="https://www.st-andrews.ac.uk/">University of St. Andrews</a>. <br>
 Among top 15% of my student cohort during undergraduate time at the <a href="https://www.tuwien.at/en/">Technical University of Vienna</a>, I was following an individual study plan, taking courses in Robotics, Machine Vision and Software Engineering. <br>
-I was part of <a href="https://www.tuwienracing.at/">TU Wien racing</a>, where I led the embedded software development of the racecar's electronic control unit and helped the team secure a top 25 place among over 200 competing teams.
+I was part of <a href="https://www.tuwienracing.at/">TU Wien racing</a>, where I led the embedded software development of the racecar's electronic control unit and helped the team secure a top 25 place among over 200 competing teams. <br>
+I am interested in working in machine vision, robotics and programming.
 </em></p>
 
 <img align="right" src="https://github-readme-stats-florians-projects-89ef2818.vercel.app/api/top-langs/?username=florianpfleiderer&layout=compact&exclude_repo=github-readme-stats,florianpfleiderer.github.io&size_weight=0.5&count_weight=0.5&langs_count=6&hide=javascript,HTML,CSS,PHP,hack,scss,nsis,tex,Dockerfile,CMake" width="300">[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florian-pfleiderer/)
