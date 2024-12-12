@@ -4,7 +4,7 @@
 I'm a Masters student in Computer Science at <a href="https://www.st-andrews.ac.uk/">University of St. Andrews</a>. <br>
 Among top 15% of my student cohort during undergraduate degree in Electrical Engineering and Communication Technologies at the <a href="https://www.tuwien.at/en/">Technical University of Vienna</a>, I was following an individual study plan, taking courses in Robotics, Machine Vision and Software Engineering. <br>
 I was part of <a href="https://www.tuwienracing.at/">TU Wien racing</a>, where I led the embedded software development of the racecar's electronic control unit and helped the team secure a top 25 place among over 200 competing teams. <br>
-I am interested in working in reinforcement learning, machine vision and applied AI.
+I am interested in working in robotics, reinforcement learning, machine vision and applied AI.
   
 </em></p>
 
