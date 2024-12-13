@@ -78,10 +78,10 @@ const flo = {
 ![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-000000?style=for-the-badge&logo=let's-encrypt&logoColor=white)
 ![Public Key Infrastructure](https://img.shields.io/badge/PKI-000000?style=for-the-badge&logo=keybase&logoColor=white)
 
-**Operational Security:**
+<!--**Operational Security:**
 
 ![Secure Authentication Methods](https://img.shields.io/badge/Secure%20Authentication%20Methods-000000?style=for-the-badge&logo=auth0&logoColor=white)
-![Threat Modeling](https://img.shields.io/badge/Threat%20Modeling-000000?style=for-the-badge&logo=the-movie-database&logoColor=white)
+![Threat Modeling](https://img.shields.io/badge/Threat%20Modeling-000000?style=for-the-badge&logo=the-movie-database&logoColor=white)-->
 
 **Languages:**
 
