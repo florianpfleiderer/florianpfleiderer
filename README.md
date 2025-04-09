@@ -8,7 +8,7 @@ I am interested in working in robotics, reinforcement learning, machine vision a
   
 </em></p>
 
-<img align="right" src="https://github-readme-stats-florians-projects-89ef2818.vercel.app/api/top-langs/?username=florianpfleiderer&layout=compact&exclude_repo=github-readme-stats,florianpfleiderer.github.io&size_weight=0.5&count_weight=0.5&langs_count=6&hide=jupyternotebook,javascript,HTML,CSS,PHP,hack,scss,nsis,tex,Dockerfile,CMake,shell" width="300">[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florian-pfleiderer/)
+<img align="right" src="https://github-readme-stats-florians-projects-89ef2818.vercel.app/api/top-langs/?username=florianpfleiderer&layout=compact&exclude_repo=github-readme-stats,florianpfleiderer.github.io&size_weight=0.5&count_weight=0.5&langs_count=6&hide=jupyter%20notebook,javascript,HTML,CSS,PHP,hack,scss,nsis,tex,Dockerfile,CMake,shell" width="300">[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florian-pfleiderer/)
 [![GitHub florianpfleiderer](https://img.shields.io/github/followers/florianpfleiderer?label=follow&style=social)](https://github.com/florianpfleiderer)
 [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://florianpfleiderer.at/)
 
