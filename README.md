@@ -1,12 +1,17 @@
 ## Hi there, I'm Florian Pfleiderer!
 
 <p><em>
-I'm a Masters student in Computer Science at <a href="https://www.st-andrews.ac.uk/">University of St. Andrews</a>. <br>
-Among top 15% of my student cohort during undergraduate degree in Electrical Engineering and Communication Technologies at the <a href="https://www.tuwien.at/en/">Technical University of Vienna</a>, I was following an individual study plan, taking courses in Robotics, Machine Vision, Software Engineering and Automation. <br>
-I was part of <a href="https://www.tuwienracing.at/">TU Wien racing</a>, where I led the embedded software development of the racecar's electronic control unit and helped the team secure a top 25 place among over 200 competing teams. <br>
-I am interested in working in robotics, reinforcement learning, machine vision and applied AI.
-  
+I hold a Master’s Degree with Distinction in Computer Science from the 
+<a href="https://www.st-andrews.ac.uk/">University of St Andrews</a>, 
+where I focused on machine learning, multi-core programming, and data-intensive systems. 
+My master’s thesis centered on model-based reinforcement learning, exploring sample-efficient methods for decision-making and control in dynamic environments. <br>
+During my undergraduate degree in Electrical Engineering and Communication Technologies at the 
+<a href="https://www.tuwien.at/en/">Technical University of Vienna</a>, 
+I ranked among the top 15% of my cohort while following an individual study plan with a strong emphasis on Robotics, Machine Vision, Software Engineering, and Automation. <br>
+I was also part of <a href="https://www.tuwienracing.at/">TU Wien Racing</a>, where I led embedded software development for the racecar’s electronic control unit and contributed to securing a top-25 place among over 200 international teams. <br>
+My interests lie in applied AI, reinforcement learning, robotics, and systems programming, with a focus on building intelligent and efficient autonomous systems.
 </em></p>
+
 
 <img align="right" src="https://github-readme-stats-florians-projects-89ef2818.vercel.app/api/top-langs/?username=florianpfleiderer&layout=compact&exclude_repo=github-readme-stats,florianpfleiderer.github.io&size_weight=0.5&count_weight=0.5&langs_count=6&hide=jupyter%20notebook,javascript,HTML,CSS,PHP,hack,scss,nsis,tex,Dockerfile,CMake,shell" width="300">[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florian-pfleiderer/)
 [![GitHub florianpfleiderer](https://img.shields.io/github/followers/florianpfleiderer?label=follow&style=social)](https://github.com/florianpfleiderer)
