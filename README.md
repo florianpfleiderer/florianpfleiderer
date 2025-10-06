@@ -7,7 +7,7 @@ where I focused on machine learning, multi-core programming, and data-intensive 
 My master’s thesis centered on model-based reinforcement learning, exploring sample-efficient methods for decision-making and control in dynamic environments. <br>
 During my undergraduate degree in Electrical Engineering and Communication Technologies at the 
 <a href="https://www.tuwien.at/en/">Technical University of Vienna</a>, 
-I ranked among the top 15% of my cohort while following an individual study plan with a strong emphasis on Robotics, Machine Vision, Software Engineering, and Automation. <br>
+I ranked among the top 15% of my cohort while following an individual study plan with a strong emphasis on Robotics, Machine Vision, and Automation. <br>
 I was also part of <a href="https://www.tuwienracing.at/">TU Wien Racing</a>, where I led embedded software development for the racecar’s electronic control unit and contributed to securing a top-25 place among over 200 international teams. <br>
 My interests lie in applied AI, reinforcement learning, robotics, and systems programming, with a focus on building intelligent and efficient autonomous systems.
 </em></p>
