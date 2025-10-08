@@ -20,7 +20,7 @@ My interests lie in applied AI, reinforcement learning, robotics, and systems pr
 
 ### 🔭 I'm currently working on ...
 
-- my masters thesis
+- practicing ROS
 - learning rust
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=florianpfleiderer&layout=compact&hide=javascript,HTML,CSS,PHP,hack,scss,nsis,tex&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&hide_border=true&exclude_repo=repo1,repo2) -->
