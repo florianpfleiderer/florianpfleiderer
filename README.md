@@ -27,8 +27,7 @@ My interests lie in applied AI, reinforcement learning, robotics, and systems pr
 
 ### 🌱 My best projects ...
 
-- <img align="right" src="assets/cloth-former.png" width="150">**[Transformer-based World Model for Cloth Manipulation](https://github.com/florianpfleiderer/TSSAgent)**  
-  *RL · Control · Manipulation*  
+- <img align="right" src="assets/cloth-former.png" width="150">**[Transformer-based World Model for Cloth Manipulation](https://github.com/florianpfleiderer/TSSAgent)** - *RL · Control · Manipulation*  
 
   Implementation of a Transformer-based state-space model (TSSM) for robotic cloth manipulation.  
   The agent learns latent world models from fabric manipulation datasets and uses model-predictive control for planning.  
