@@ -99,12 +99,6 @@ const flo = {
 ![Secure Authentication Methods](https://img.shields.io/badge/Secure%20Authentication%20Methods-000000?style=for-the-badge&logo=auth0&logoColor=white)
 ![Threat Modeling](https://img.shields.io/badge/Threat%20Modeling-000000?style=for-the-badge&logo=the-movie-database&logoColor=white)-->
 
-**Languages:**
-
-![German](https://img.shields.io/badge/German-C2-blue?style=for-the-badge)
-![English](https://img.shields.io/badge/English-C2-blue?style=for-the-badge)
-![French](https://img.shields.io/badge/French-B2-blue?style=for-the-badge)
-
 ### 📫 How to reach me: 
 
 Mail: [florian@pfleiderer.at](mailto:florian@pfleiderer.at)
