@@ -27,17 +27,30 @@ My interests lie in applied AI, reinforcement learning, robotics, and systems pr
 
 ### 🌱 My best projects ...
 
-- <img align="right" src="assets/cloth-former.png" width="150">**[Transformer-based World Model for Cloth Manipulation](https://github.com/florianpfleiderer/TSSAgent)** - *RL · Control · Manipulation*  
+- <img align="right" src="assets/cloth-former.png" width="150">**[Transformer-based World Model for Cloth Manipulation](https://github.com/florianpfleiderer/TSSAgent)** - *Deep RL · Control · Manipulation*  
 
-  Implementation of a Transformer-based state-space model (TSSM) for robotic cloth manipulation.  
-  The agent learns latent world models from fabric manipulation datasets and uses model-predictive control for planning.  
+  Implementation of a **Transformer-based state-space model (TSSM)** for robotic cloth manipulation.  
+  The agent learns **latent world models** from fabric manipulation datasets and uses **model-predictive control** for planning.  
   Built on the **Agent-Arena** framework for training, evaluation, and benchmarking of world-model agents on cloth flattening and other deformable-object tasks.
 
-- <img align="right" src="assets/cyws3d.png" width="150"><a href="https://github.com/florianpfleiderer/CYWS3D-pipeline">Model Optimisation and Comparison for Improved Change Detection in Autonomous Systems</a> – This thesis integrates the CYWS-3D model into an existing research project to enhance change detection for indoor mobile robots. The system leverages DINO-pretrained Vision Transformers for feature extraction, SuperGlue graph neural networks for correspondence matching, and UNet architectures with SCSE attention for spatial processing. By applying CenterNet object detection heads with differentiable 3D warping directly to camera data, the approach bypasses traditional reconstruction pipelines. The multi-modal architecture addresses occlusion handling and search area optimization through geometric registration modules, serving as a complementary indicator for objects missed by conventional detection systems in unsupervised home assistance applications.
+- <img align="right" src="assets/cyws3d.png" width="150">**[Model Optimisation and Comparison for Improved Change Detection in Autonomous Systems](https://github.com/florianpfleiderer/CYWS3D-pipeline)** – *ROS · ViT · RGB-D · Perception*  
 
-- <img align="right" src="assets/arhs.png" width="150"><a href="https://github.com/florianpfleiderer/ARHS">Autonomous Robot Hockey System</a> – Autonomous Robot Hockey System (ARHS) - A ROS-based multi-robot system enabling autonomous robots to compete in strategic hockey-like gameplay. Uses sensor fusion (RPlidar laser scanner + Kinect RGB-D camera) for robust object detection, classification, and localization. Implements intelligent navigation with potential field-based motion planning, obstacle avoidance, and precise field mapping using geometric pole arrangements. Features state machine architecture for strategic behaviors including team coordination, dynamic target selection, puck manipulation, and goal scoring against opponents.
+  Integration of the **CYWS-3D** model into an indoor mobile robotics research project to enhance visual change detection.  
+  Combines **DINO-pretrained Vision Transformers** for feature extraction, **SuperGlue** GNNs for correspondence matching, and **UNet-SCSE** modules for spatial reasoning.  
+  Uses **CenterNet** detection with differentiable 3D warping to bypass traditional reconstruction pipelines, improving occlusion handling and geometric registration for unsupervised home-assistance scenarios.
 
-- <img align="right" src="assets/simplesynth.png" width="150"><a href="https://github.com/florianpfleiderer/SimpleSynth">Digital Modular Synthesizer</a> – SimpleSynth is a modular, node-based synthesizer for music production featuring real-time sound generation and processing. Users create synthesizer patches by connecting visual modules (oscillators, effects, sequencers) through an intuitive drag-and-drop interface. Built with ImNodes/ImGui for the GUI and STK for audio processing, it offers educational accessibility while maintaining professional capabilities. The system supports save/load functionality, real-time parameter adjustment, and easy extensibility for custom modules.
+- <img align="right" src="assets/arhs.png" width="150">**[Autonomous Robot Hockey System](https://github.com/florianpfleiderer/ARHS)** – *ROS · Sensor Fusion · Path Planning · Hardware*  
+
+  A **ROS-based multi-robot system** enabling autonomous hockey-style gameplay.  
+  Implements **LiDAR + Kinect** sensor fusion for perception and **potential-field motion planning** for real-time navigation and obstacle avoidance.  
+  Features a **state-machine architecture** supporting team coordination, dynamic target selection, puck manipulation, and goal-scoring behavior on physical robots.
+
+
+- <img align="right" src="assets/simplesynth.png" width="150">**[SimpleSynth — Digital Modular Synthesizer](https://github.com/florianpfleiderer/SimpleSynth)** – *C++ · Audio DSP · GUI · Real-Time*  
+
+  A **node-based modular synthesizer** for real-time audio generation and processing.  
+  Built with **ImGui/ImNodes** for an interactive interface and **STK** for audio synthesis and effects.  
+  Supports patch creation via drag-and-drop, live parameter editing, save/load functionality, and extensibility for custom modules.
 
 <!--
 - <img align="right" src="assets/coffee-app.png" width="65" style="padding-bottom: 15px; padding-left: 15px; float: right;clear:both;"><a href="https://github.com/florianpfleiderer/coffee-app">React x Flask Application</a> – A containerised application using the react and flask frameworks and SQLite for local database management.
