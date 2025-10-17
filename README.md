@@ -27,30 +27,22 @@ My interests lie in applied AI, reinforcement learning, robotics, and systems pr
 
 ### 🌱 My best projects ...
 
-- <img align="right" src="assets/cloth-former.png" width="150">**[Transformer-based World Model for Cloth Manipulation](https://github.com/florianpfleiderer/TSSAgent)** - *Deep RL · Control · Manipulation*  
+- <img align="right" src="assets/cloth-former.png" width="150">**[Transformer-based World Model for Cloth Manipulation](https://github.com/florianpfleiderer/TSSAgent)** - *Deep RL · Control · Manipulation · World Models*  
 
-  Implementation of a **Transformer-based state-space model (TSSM)** for robotic cloth manipulation.  
-  The agent learns **latent world models** from fabric manipulation datasets and uses **model-predictive control** for planning.  
-  Built on the **Agent-Arena** framework for training, evaluation, and benchmarking of world-model agents on cloth flattening and other deformable-object tasks.
+  Implementation of a **Transformer-based state-space model (TSSM)** for robotic cloth manipulation. The agent learns **latent world models** from fabric manipulation datasets and uses **model-predictive control** for planning. Built on the **Agent-Arena** framework for training, evaluation, and benchmarking of world-model agents on cloth flattening and other deformable-object tasks.
 
 - <img align="right" src="assets/cyws3d.png" width="150">**[Model Optimisation and Comparison for Improved Change Detection in Autonomous Systems](https://github.com/florianpfleiderer/CYWS3D-pipeline)** – *ROS · ViT · RGB-D · Perception*  
 
-  Integration of the **CYWS-3D** model into an indoor mobile robotics research project to enhance visual change detection.  
-  Combines **DINO-pretrained Vision Transformers** for feature extraction, **SuperGlue** GNNs for correspondence matching, and **UNet-SCSE** modules for spatial reasoning.  
-  Uses **CenterNet** detection with differentiable 3D warping to bypass traditional reconstruction pipelines, improving occlusion handling and geometric registration for unsupervised home-assistance scenarios.
+  Integration of the **CYWS-3D** model into an indoor mobile robotics research project to enhance visual change detection. Combines **DINO-pretrained Vision Transformers** for feature extraction, **SuperGlue** GNNs for correspondence matching, and **UNet-SCSE** modules for spatial reasoning. Uses **CenterNet** detection with differentiable 3D warping to bypass traditional reconstruction pipelines, improving occlusion handling and geometric registration for unsupervised home-assistance scenarios.
 
-- <img align="right" src="assets/arhs.png" width="150">**[Autonomous Robot Hockey System](https://github.com/florianpfleiderer/ARHS)** – *ROS · Sensor Fusion · Path Planning · Hardware*  
+- <img align="right" src="assets/arhs.png" width="150">**[Autonomous Robot Hockey System](https://github.com/florianpfleiderer/ARHS)** – *ROS · Sensor Fusion · Navigation · Perception*  
 
-  A **ROS-based multi-robot system** enabling autonomous hockey-style gameplay.  
-  Implements **LiDAR + Kinect** sensor fusion for perception and **potential-field motion planning** for real-time navigation and obstacle avoidance.  
-  Features a **state-machine architecture** supporting team coordination, dynamic target selection, puck manipulation, and goal-scoring behavior on physical robots.
+  A **ROS-based multi-robot system** enabling autonomous hockey-style gameplay. Implements **LiDAR + Kinect** sensor fusion for perception and **potential-field motion planning** for real-time navigation and obstacle avoidance. Features a **state-machine architecture** supporting team coordination, dynamic target selection, puck manipulation, and goal-scoring behavior on physical robots.
 
 
 - <img align="right" src="assets/simplesynth.png" width="150">**[SimpleSynth — Digital Modular Synthesizer](https://github.com/florianpfleiderer/SimpleSynth)** – *C++ · Audio DSP · GUI · Real-Time*  
 
-  A **node-based modular synthesizer** for real-time audio generation and processing.  
-  Built with **ImGui/ImNodes** for an interactive interface and **STK** for audio synthesis and effects.  
-  Supports patch creation via drag-and-drop, live parameter editing, save/load functionality, and extensibility for custom modules.
+  A **node-based modular synthesizer** for real-time audio generation and processing. Built with **ImGui/ImNodes** for an interactive interface and **STK** for audio synthesis and effects. Supports patch creation via drag-and-drop, live parameter editing, save/load functionality, and extensibility for custom modules.
 
 <!--
 - <img align="right" src="assets/coffee-app.png" width="65" style="padding-bottom: 15px; padding-left: 15px; float: right;clear:both;"><a href="https://github.com/florianpfleiderer/coffee-app">React x Flask Application</a> – A containerised application using the react and flask frameworks and SQLite for local database management.
