@@ -20,14 +20,15 @@ My interests lie in applied AI, reinforcement learning, robotics, and systems pr
 
 ### 🔭 I'm currently working on ...
 
-- practicing ROS
+- experimenting with ROS2
 - learning rust
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=florianpfleiderer&layout=compact&hide=javascript,HTML,CSS,PHP,hack,scss,nsis,tex&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&hide_border=true&exclude_repo=repo1,repo2) -->
 
 ### 🌱 My best projects ...
 
-- <img align="right" src="assets/cloth-former.png" width="150"><a href="https://github.com/florianpfleiderer/TSSAgent">Transformer-based world model for cloth anipulation.</a> – Implementation of a Transformer-based state-space model (TSSM) for robotic cloth manipulation. The agent learns latent world models from fabric manipulation datasets and uses model-predictive control for planning. Built on the Agent-Arena framework, the project enables training, evaluation, and benchmarking of world-model agents on cloth flattening and related deformable object manipulation tasks.
+- <img align="right" src="assets/cloth-former.png" width="150"><a href="https://github.com/florianpfleiderer/TSSAgent">Transformer-based world model for cloth anipulation.</a> – RL·Control·Manipulation<br>
+Implementation of a Transformer-based state-space model (TSSM) for robotic cloth manipulation. The agent learns latent world models from fabric manipulation datasets and uses model-predictive control for planning. Built on the Agent-Arena framework, the project enables training, evaluation, and benchmarking of world-model agents on cloth flattening and related deformable object manipulation tasks.
 
 - <img align="right" src="assets/cyws3d.png" width="150"><a href="https://github.com/florianpfleiderer/CYWS3D-pipeline">Model Optimisation and Comparison for Improved Change Detection in Autonomous Systems</a> – This thesis integrates the CYWS-3D model into an existing research project to enhance change detection for indoor mobile robots. The system leverages DINO-pretrained Vision Transformers for feature extraction, SuperGlue graph neural networks for correspondence matching, and UNet architectures with SCSE attention for spatial processing. By applying CenterNet object detection heads with differentiable 3D warping directly to camera data, the approach bypasses traditional reconstruction pipelines. The multi-modal architecture addresses occlusion handling and search area optimization through geometric registration modules, serving as a complementary indicator for objects missed by conventional detection systems in unsupervised home assistance applications.
 
