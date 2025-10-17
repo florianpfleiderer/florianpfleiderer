@@ -31,7 +31,7 @@ My interests lie in applied AI, reinforcement learning, robotics, and systems pr
 
   Implementation of a **Transformer-based state-space model (TSSM)** for robotic cloth manipulation. The agent learns **latent world models** from fabric manipulation datasets and uses **model-predictive control** for planning. Built on the **Agent-Arena** framework for training, evaluation, and benchmarking of world-model agents on cloth flattening and other deformable-object tasks.
 
-- <img align="right" src="assets/cyws3d.png" width="150">**[Model Optimisation and Comparison for Improved Change Detection in Autonomous Systems](https://github.com/florianpfleiderer/CYWS3D-pipeline)** – *ROS · ViT · RGB-D · Perception*  
+- <img align="right" src="assets/cyws3d.png" width="150">**[Improved Change Detection in Autonomous Systems](https://github.com/florianpfleiderer/CYWS3D-pipeline)** – *ROS · ViT · RGB-D · Perception*  
 
   Integration of the **CYWS-3D** model into an indoor mobile robotics research project to enhance visual change detection. Combines **DINO-pretrained Vision Transformers** for feature extraction, **SuperGlue** GNNs for correspondence matching, and **UNet-SCSE** modules for spatial reasoning. Uses **CenterNet** detection with differentiable 3D warping to bypass traditional reconstruction pipelines, improving occlusion handling and geometric registration for unsupervised home-assistance scenarios.
 
