@@ -40,7 +40,7 @@ My interests lie in applied AI, reinforcement learning, and robotics, with a foc
   A **ROS-based multi-robot system** enabling autonomous hockey-style gameplay. Implements **LiDAR + Kinect** sensor fusion for perception and **potential-field motion planning** for real-time navigation and obstacle avoidance. Features a **state-machine architecture** supporting team coordination, dynamic target selection, puck manipulation, and goal-scoring behavior on physical robots.
 
 
-- <img align="right" src="assets/simplesynth.png" width="150">**[SimpleSynth — Digital Modular Synthesizer](https://github.com/florianpfleiderer/SimpleSynth)** – *C++ · Audio DSP · GUI · Real-Time*  
+- <img align="right" src="assets/simplesynth.png" width="150">**[SimpleSynth — Digital Modular Synthesizer](https://github.com/florianpfleiderer/SimpleSynth)** – *C++ · Audio DSP · GUI*  
 
   A **node-based modular synthesizer** for real-time audio generation and processing. Built with **ImGui/ImNodes** for an interactive interface and **STK** for audio synthesis and effects. Supports patch creation via drag-and-drop, live parameter editing, save/load functionality, and extensibility for custom modules.
 
