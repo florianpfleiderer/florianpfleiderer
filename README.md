@@ -9,7 +9,7 @@ During my undergraduate degree in Electrical Engineering and Communication Techn
 <a href="https://www.tuwien.at/en/">Technical University of Vienna</a>, 
 I ranked among the top 15% of my cohort while following an individual study plan with a strong emphasis on Robotics, Machine Vision, and Automation. <br>
 I was also part of <a href="https://www.tuwienracing.at/">TU Wien Racing</a>, where I led embedded software development for the racecar’s electronic control unit and contributed to securing a top-25 place among over 200 international teams. <br>
-My interests lie in applied AI, reinforcement learning, robotics, and systems programming, with a focus on building intelligent and efficient autonomous systems.
+My interests lie in applied AI, reinforcement learning, and robotics, with a focus on building intelligent and impactful autonomous systems.
 </em></p>
 
 
