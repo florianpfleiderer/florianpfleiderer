@@ -31,11 +31,11 @@ My interests lie in applied AI, reinforcement learning, and robotics, with a foc
 
   Implementation of a **Transformer-based state-space model (TSSM)** for robotic cloth manipulation. The agent learns **latent world models** from fabric manipulation datasets and uses **model-predictive control** for planning. Built on the **Agent-Arena** framework for training, evaluation, and benchmarking of world-model agents on cloth flattening and other deformable-object tasks.
 
-- <img align="right" src="assets/cyws3d.png" width="150">**[Improved Change Detection in Autonomous Systems](https://github.com/florianpfleiderer/CYWS3D-pipeline)** – *ROS · ViT · RGB-D · Perception*  
+- <img align="right" src="assets/cyws3d.png" width="150">**[Improved Change Detection in Autonomous Systems](https://github.com/florianpfleiderer/CYWS3D-pipeline)** – *ROS · DINO-ViT · Perception*  
 
   Integration of the **CYWS-3D** model into an indoor mobile robotics research project to enhance visual change detection. Combines **DINO-pretrained Vision Transformers** for feature extraction, **SuperGlue** GNNs for correspondence matching, and **UNet-SCSE** modules for spatial reasoning. Uses **CenterNet** detection with differentiable 3D warping to bypass traditional reconstruction pipelines, improving occlusion handling and geometric registration for unsupervised home-assistance scenarios.
 
-- <img align="right" src="assets/arhs.png" width="150">**[Autonomous Robot Hockey System](https://github.com/florianpfleiderer/ARHS)** – *ROS · Sensor Fusion · Navigation · Perception*  
+- <img align="right" src="assets/arhs.png" width="150">**[Autonomous Robot Hockey System](https://github.com/florianpfleiderer/ARHS)** – *ROS · Sensor Fusion · Navigation*  
 
   A **ROS-based multi-robot system** enabling autonomous hockey-style gameplay. Implements **LiDAR + Kinect** sensor fusion for perception and **potential-field motion planning** for real-time navigation and obstacle avoidance. Features a **state-machine architecture** supporting team coordination, dynamic target selection, puck manipulation, and goal-scoring behavior on physical robots.
 
