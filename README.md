@@ -1,4 +1,4 @@
-## Hi there, I'm Florian Pfleiderer!
+## Hi there, I'm Florian!
 
 <p><em>
 I hold a Master’s Degree with Distinction in Computer Science from the 
