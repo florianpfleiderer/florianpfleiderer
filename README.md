@@ -88,13 +88,13 @@ const flo = {
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 <!-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) -->
 
-**Cryptography:**
+<!-- **Cryptography:**
 
 ![RSA](https://img.shields.io/badge/RSA-000000?style=for-the-badge&logo=openssl&logoColor=white)
 ![GPG](https://img.shields.io/badge/GPG-000000?style=for-the-badge&logo=gnu-privacy-guard&logoColor=white)
 ![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-000000?style=for-the-badge&logo=let's-encrypt&logoColor=white)
 ![Public Key Infrastructure](https://img.shields.io/badge/PKI-000000?style=for-the-badge&logo=keybase&logoColor=white)
-
+-->
 <!--**Operational Security:**
 
 ![Secure Authentication Methods](https://img.shields.io/badge/Secure%20Authentication%20Methods-000000?style=for-the-badge&logo=auth0&logoColor=white)
