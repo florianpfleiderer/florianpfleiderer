@@ -3,7 +3,7 @@
 <p><em>
 I hold a Master’s Degree in Computer Science from the 
 <a href="https://www.st-andrews.ac.uk/">University of St Andrews</a>, 
-where I focused on machine learning, multi-core programming, and data-intensive systems. 
+where I focused on machine learning, multi-core programming, and data-intensive systems, building on my robotics foundation. 
 My master’s thesis centered on model-based reinforcement learning, exploring sample-efficient methods for decision-making and control in dynamic environments. <br>
 During my undergraduate degree in Electrical Engineering and Communication Technologies at the 
 <a href="https://www.tuwien.at/en/">Technical University of Vienna</a>, I focused on Robotics, Machine Vision and Control.
