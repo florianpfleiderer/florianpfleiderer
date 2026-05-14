@@ -20,7 +20,7 @@ My interests lie in robotics, reinforcement learning, and control, with a focus 
 
 ### 🔭 I'm currently working on ...
 
-- experimenting with ROS2
+- intelligent control systems
 - learning rust
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=florianpfleiderer&layout=compact&hide=javascript,HTML,CSS,PHP,hack,scss,nsis,tex&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&hide_border=true&exclude_repo=repo1,repo2) -->
